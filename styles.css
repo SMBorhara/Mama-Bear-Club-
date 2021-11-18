@@ -1,0 +1,102 @@
+body {
+    background-color: #ed7b49;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} 
+
+/* Header */
+
+.mamalogo {
+	text-align: center;
+    background-color: #b8afff;
+}
+
+/* Polar Bear Image */
+
+.polarimg img {
+	height: 300px;
+	width: 400px;
+	padding-left: 37%;
+}
+
+/* purpose */
+
+.purpose p{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 3%;
+    font-size: 2.25rem;
+    background-color: #8cc1a7;
+    height: 80px;
+
+}
+
+.images{
+    height: 500px;
+    width: 1000px;
+    padding-left: 300px; 
+}
+
+.images img{
+    height: 70%;
+    width: 30%;
+}
+
+.img1{
+    padding-right: 10px;
+    padding-left: 50px;
+}
+
+.img3{
+    padding-left: 10px;
+}
+
+/* Quote */
+
+.quote{
+    text-align: center;
+    background-color: #f6bde8;
+}
+
+/* Activity Images */
+
+.activeimgs{
+    height: 500px;
+    width: 1000px;
+    padding-top: 50px;
+    padding-left: 350px;
+    padding-bottom: -50px;
+}
+
+.activeimgs img{
+    height: 60%;
+    width: 30%;
+    
+}
+
+.img4{
+    padding-right: 20px;
+}
+
+.img5{
+    padding-right: 20px;
+}
+
+/* Activities */
+
+.activities{
+    height: 100px;
+    width: 100%;
+    padding-left: 3%;
+    background-color: #f1b6d4;
+}
+
+.activities p{
+    font-size: 1em;
+}
+
+/* Chat */
+
+.chat{
+    text-decoration: underline;
+    padding: 50px 650px;
+}
